@@ -1,0 +1,56 @@
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios
+$ git init
+Initialized empty Git repository in C:/Users/paola/Documents/ADSO Sena 2024/Anuncios/.git/
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$ git config user.name "paolagomez7"
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$ git config user.email "paolagomez59@gmail.com"
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$ git remote add origin "https://github.com/paolagomez7/ejercio2.git"
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        5. Formato solicitud a comite.docx
+        "ANUNCIO - FASE 2. PLANEACI\303\223N - ACTI.txt"
+        "ANUNCIO - INICIO FASE 3 - EJECUCI\303\223N.txt"
+        "ANUNCIO FINALIZA FASE 2 - PLANEACI\303\223N.txt"
+        "ANUNCIO GRABACI\303\223N SESI\303\223N 30 DE MAYO 2024 DISPONIBLE.txt"
+        "C\303\263digo ara crea un documento .txt"
+        DIRECTORIO COORDINACION VIRTUAL.pdf
+        Grabar sesion en linea.txt
+        PREEENTACION PERSONAL.txt
+        Preaviso de Cierre de la Fase de Pl.txt
+        SESION.txt
+        Sesion en linea.txt
+        css.txt
+        grabar sesion.txt
+        html Riqui pan.txt
+        inicio de semana y actividad.txt
+        inicio de semana.txt
+        retroalimentacion de grabaciones.txt
+        sesion de clase.txt
+        sesion de formacion 8 guia de aprendizaje 6.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$ git add css.txt
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$ git commit -m "agraegar achivo"
+[master (root-commit) 65859a9] agraegar achivo
+ 1 file changed, 62 insertions(+)
+ create mode 100644 css.txt
+
+paola@DESKTOP-GNLOOGB MINGW64 ~/Documents/ADSO Sena 2024/Anuncios (master)
+$
